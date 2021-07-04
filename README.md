@@ -8,9 +8,9 @@
 |CF-758F|         |        |
 |CF-759BF|         |        |
 |CF-811AC|         |        |
-|CF-812AC|         |        |
+|CF-812AC|   rtl8812BU        |   https://github.com/shiqishao/rtl88x2BU_WiFi_linux_v5.8.7.4_37264.20200922_COEX20191120-7777     |
 |CF-813B|         |        |
-|CF-821AC|   rtl8812BU      |   https://github.com/shiqishao/rtl88x2BU_WiFi_linux_v5.8.7.4_37264.20200922_COEX20191120-7777     |
+|CF-821AC|       |        |
 |CF-825N|         |        |
 |CF-826F|         |        |
 |CF-912AC|         |        |
