@@ -5,11 +5,11 @@
 |  CF-723B   |          |        |
 |CF-726B|  rtl8821CU  |   https://github.com/shiqishao/rtl8821CU_rtl8731AU_WiFi_linux_v5.8.1.4_36409.20200313_COEX20191014-4141     |
 |CF-727B|         |        |
-|CF-758F|         |        |
+|CF-758F|         |   https://github.com/shiqishao/rtl8821CU_rtl8731AU_WiFi_linux_v5.8.1.4_36409.20200313_COEX20191014-4141     |
 |CF-759BF|         |        |
-|CF-811AC|         |        |
+|CF-811AC|  rtl8811CU       |   https://github.com/shiqishao/rtl8821CU_rtl8731AU_WiFi_linux_v5.8.1.4_36409.20200313_COEX20191014-4141     |
 |CF-812AC|   rtl8812BU        |   https://github.com/shiqishao/rtl88x2BU_WiFi_linux_v5.8.7.4_37264.20200922_COEX20191120-7777     |
-|CF-813B|         |        |
+|CF-813B|   rtl8811CU      |   https://github.com/shiqishao/rtl8821CU_rtl8731AU_WiFi_linux_v5.8.1.4_36409.20200313_COEX20191014-4141     |
 |CF-821AC|       |        |
 |CF-825N|         |        |
 |CF-826F|         |        |
