@@ -38,4 +38,4 @@
 |CF-WU825N V2|         |        |
 |CF-WU835P|         |        |
 |CF-WU910A|         |        |
-|CF-WU925A|  rtl8811CU       |        |
+|CF-WU925A|  rtl8811CU       |   https://github.com/shiqishao/rtl8821CU_rtl8731AU_WiFi_linux_v5.8.1.4_36409.20200313_COEX20191014-4141     |
