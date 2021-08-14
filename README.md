@@ -18,9 +18,9 @@
 |CF-915AC|  rtl8811AU       |        |
 |CF-916AC|         |        |
 |CF-923AC|         |        |
-|CF-924AC|         |        |
+|CF-924AC|  rtl8812BU       |        |
 |CF-924AC V2|         |        |
-|CF-926AC V2|         |        |
+|CF-926AC V2|  mt7612u       |        |
 |CF-927BF|         |        |
 |CF-938AC|         |        |
 |CF-WU710N V2|         |        |
