@@ -23,6 +23,7 @@
 |CF-926AC V2|  mt7612u       |        |
 |CF-927BF|         |        |
 |CF-938AC|         |        |
+|CF-939AC|   rtl8814AU      |        |
 |CF-WU710N V2|         |        |
 |CF-WU711N|         |        |
 |CF-WU712P|         |        |
