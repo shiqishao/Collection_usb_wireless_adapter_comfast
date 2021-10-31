@@ -41,4 +41,4 @@
 |CF-WU910A|         |        |
 |CF-WU925A|  rtl8811CU       |   https://github.com/shiqishao/rtl8821CU_rtl8731AU_WiFi_linux_v5.8.1.4_36409.20200313_COEX20191014-4141     |
 |CF-928AC|  mt7612u       |        |
-|CF-957AX|         |        |
+|CF-957AX|  rtl8852AU       |   https://github.com/shiqishao/RTL8852AU_WiFi_linux_v1.15.0.1-0-g487ee886.20210714     |
