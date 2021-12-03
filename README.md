@@ -3,6 +3,7 @@
 | Model Name | Chipest | Driver |
 | -----------| --------| -------|
 |  CF-723B   |          |        |
+|  CF-723B V2  |   rtl8723BU       |        |
 |CF-726B|  rtl8821CU  |   https://github.com/shiqishao/rtl8821CU_rtl8731AU_WiFi_linux_v5.8.1.4_36409.20200313_COEX20191014-4141     |
 |CF-727B|         |        |
 |CF-758F|         |   https://github.com/shiqishao/rtl8821CU_rtl8731AU_WiFi_linux_v5.8.1.4_36409.20200313_COEX20191014-4141     |
