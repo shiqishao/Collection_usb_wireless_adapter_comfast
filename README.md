@@ -60,6 +60,7 @@
 |CF-972AX|            |          |
 |CF-977AX|            |          |
 |CF-940AX|            |    https://github.com/shiqishao/Tenda_W311MIv6_driver      |
+|CF-943AX|  rtl8851BU        |       | 
 |CF-827F|            |          |
 |CF-921AC V2|            |   https://github.com/shiqishao/rtl88x2CU_WiFi_linux_v5.14.0.3-2-gba458274c.20220418_COEX20211210-2727       |
 |CF-934AC|            |    https://github.com/shiqishao/rtl88x2CU_WiFi_linux_v5.14.0.3-2-gba458274c.20220418_COEX20211210-2727      |
