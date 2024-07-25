@@ -64,3 +64,4 @@
 |CF-827F|            |          |
 |CF-921AC V2|            |   https://github.com/shiqishao/rtl88x2CU_WiFi_linux_v5.14.0.3-2-gba458274c.20220418_COEX20211210-2727       |
 |CF-934AC|            |    https://github.com/shiqishao/rtl88x2CU_WiFi_linux_v5.14.0.3-2-gba458274c.20220418_COEX20211210-2727      |
+|CF-983BE|  rtl8912AU |          |
