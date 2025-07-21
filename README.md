@@ -55,7 +55,10 @@
 |CF-959AX V2|         |    https://github.com/shiqishao/RTL8852BU_RTL8832BU_WiFi_linux_v1.15.11-36-g66c244572.20220912    |
 |CF-822AC|  rtl8811CU       |   https://github.com/shiqishao/rtl8821CU_rtl8731AU_WiFi_linux_v5.8.1.4_36409.20200313_COEX20191014-4141     |
 |CF-812AC V2|        |   https://github.com/shiqishao/rtl88x2CU_WiFi_linux_v5.14.0.3-2-gba458274c.20220418_COEX20211210-2727    |
-|CF-970AX|            |          |
+|CF-962AX|            |          |
+|CF-965AX|            |          |
+|CF-966AX|            |          |
+|CF-970AX|   rtl8832CU         |    https://github.com/morrownr/rtl8852cu-20240510      |
 |CF-975AX|            |          |
 |CF-972AX|            |          |
 |CF-977AX|            |          |
